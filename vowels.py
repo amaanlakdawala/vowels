@@ -1,3 +1,5 @@
+#vowels program
+
 
 # name=input("Enter a String: ")
 # name=name.lower()
@@ -7,6 +9,7 @@
 #         name1=name.replace(name[i],"")
 # print("String after removing vowels: ",name1)  
 
+#separating even and odd list
 
 # list1=list(range(1,11))
 # even_list=[]
@@ -19,6 +22,8 @@
 # print("Original List: ",list1)
 # print("Even List: ",even_list)
 # print("Odd List: ",odd_list)
+
+#check if name is mentioned in dict or not
 
 
 # dict1={"amaan":"9892662324","adnaan":"9769584262","anas":"98920112272"}
