@@ -1,3 +1,5 @@
+#word guess game
+
 letters = [
     ['h', 'o','l','i','d','a','y'],
     ['p', 'r','o', 'g', 'r', 'a', 'm', 'm', 'i', 'n', 'g'],
