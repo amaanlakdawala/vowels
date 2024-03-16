@@ -55,11 +55,11 @@
 # print(square)
 
 
-list1=[1,2,3]
-list2=[4,5,6]
-list3=[]
-new_list=list(map(lambda x,y:x+y,list1 ,list2))
-print(new_list)
+# list1=[1,2,3]
+# list2=[4,5,6]
+# list3=[]
+# new_list=list(map(lambda x,y:x+y,list1 ,list2))
+# print(new_list)
 
 # def fib(n):
 #     if n==0:
@@ -76,6 +76,9 @@ print(new_list)
 # add=list(map(lambda x:list3.up))
 # list3 = list(map(lambda x, y: x + y, list1, list2))
 # print(list3)
+ 
+
+# practisng github
 
 
 
